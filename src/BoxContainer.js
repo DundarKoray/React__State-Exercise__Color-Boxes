@@ -4,8 +4,8 @@
 
  class BoxContainer extends Component {
     static defaultProps = {
-      numBoxes: 18,
-      allColors: ['purple', 'magenta', 'violet', 'pink']
+      numBoxes: 15,
+      allColors: ['purple', 'magenta', 'violet', 'pink', 'yellow', 'green', 'red', 'blue', 'black', 'orange']
     }
     
     render(){
